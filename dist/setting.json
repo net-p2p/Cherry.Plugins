@@ -15,7 +15,7 @@
   },
   "macos": {
     "list": {
-      "64位下载": {
+      "Intel": {
         "url": "Cherry.Web-v2.5.0x64.zip"
       },
       "旧版本": {

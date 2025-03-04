@@ -2,13 +2,35 @@
   "windows": {
     "list": {
       "64位下载": {
-        "url": "p2pInstall-v2.4x64.exe"
+        "url": "p2pInstall-v2.5.0x64.exe"
       },
       "32位下载": {
-        "url": "p2pInstall-v2.4x86.exe"
+        "url": "p2pInstall-v2.5.0x86.exe"
       },
       "旧版本": {
         "url": "https://github.com/ni-xue/Cherry.Plugins/tree/tags/dist/download/windows"
+      }
+    },
+    "depict": "当前版本为公测版，可以免费使用！"
+  },
+  "macos": {
+    "list": {
+      "64位下载": {
+        "url": "Cherry.Web-v2.5.0x64.zip"
+      },
+      "旧版本": {
+        "url": "https://github.com/ni-xue/Cherry.Plugins/tree/tags/dist/download/macos"
+      }
+    },
+    "depict": "当前版本为公测版，可以免费使用！"
+  },
+  "linux": {
+    "list": {
+      "64位下载": {
+        "url": "Cherry.Web-v2.5.0x64.zip"
+      },
+      "旧版本": {
+        "url": "https://github.com/ni-xue/Cherry.Plugins/tree/tags/dist/download/linux"
       }
     },
     "depict": "当前版本为公测版，可以免费使用！"

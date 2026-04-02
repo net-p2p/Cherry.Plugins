@@ -26,7 +26,7 @@
   },
   "docker": {
     "list": {
-      "Intel": {
+      "Zip": {
         "url": "CherryNet-v2.5.0x64.zip"
       },
       "旧版本": {

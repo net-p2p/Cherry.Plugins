@@ -24,6 +24,17 @@
     },
     "depict": "当前版本为公测版，可以免费使用！"
   },
+  "docker": {
+    "list": {
+      "Intel": {
+        "url": "CherryNet-v2.5.0x64.zip"
+      },
+      "旧版本": {
+        "url": "https://github.com/ni-xue/Cherry.Plugins/tree/tags/dist/download/docker"
+      }
+    },
+    "depict": "当前版本为公测版，可以免费使用！"
+  },
   "linux": {
     "list": {
       "64位下载": {
